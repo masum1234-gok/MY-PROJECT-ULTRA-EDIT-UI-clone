@@ -34,7 +34,7 @@ MY-PROJECT-ULTRA-EDIT-UI-clone/
 1. রিপোজিটরি ক্লোন করুন:
 
    ```bash
-   git clone https://github.com/masum1234-gok/MY-PROJECT-ULTRA-EDIT-UI-clone.git
+   git clone https://github.com/mir-md-masum-billah/MY-PROJECT-ULTRA-EDIT-UI-clone.git
    ```
 
 2. প্রজেক্ট ফোল্ডারে যান:
